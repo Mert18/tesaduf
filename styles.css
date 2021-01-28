@@ -8,14 +8,22 @@
 }
 
 body {
-    background-color: antiquewhite;
     font-family: 'Roboto Condensed', sans-serif;
+    display: flex;
 }
 
 header {
     width: 100%;
+    height: 90vh;
     text-align: center;
-    height: 20%;
+    margin-top: 3em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+header * {
+    margin-bottom: 1rem;
 }
 main {
     width: 100%;
@@ -26,19 +34,44 @@ main .buttons {
     justify-content: center;
     align-items: center;
 }
-main .buttons a {
+.btn {
     background-color: black;
     color: white;
-    padding: 1rem;
-    font-size: 1.3rem;
-    width: 3em;
-    height: 1em;
+    padding: 0.8rem;
+    font-size: 1.1rem;
+    border: none;
+    outline: none;
+    margin: 1rem;
+    transition: all .4s;
+    border-radius: 1em;
+}
+.btn:hover {
+    cursor: pointer;
+    transform: scale(1.03);
 }
 .active {
-    background-color: black;
+    background-color: #D14246;
     color: white;
-    padding: 1rem;
-    font-size: 1.3rem;
-    width: 3.2em;
-    height: 1.1em;
+    padding: 0.8rem;
+    font-size: 1.1rem;
+    border: none;
+    outline: none;
+    margin: 1rem;
+}
+.launch button {
+    background: rgb(175, 43, 43);
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 1.2rem;
+    padding: 0.7rem;
+}
+.launch button:hover {
+    cursor: pointer;
+    background-color: #D14246;
+}
+
+.recommendation {
+    color: white;
+    margin-top: 2rem;
 }
