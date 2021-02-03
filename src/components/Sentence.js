@@ -1,21 +1,17 @@
-import { maxHeaderSize } from 'http';
 import React, { useState } from 'react';
 import '../index.css'
 
-const Movies = [
-    "The Butterfly Effect",
-    "Bir Başkadır"
-];
-const Books = [
-    "The Joy of Life",
-    "Thus Spoke Zarathustra"
-]
 
+
+let data = require('./kitaplar.json')
+
+let movieData = require('./imdb-top-100.json')
 
 const Sentence = () => {
 
+
     const [mob, setMob] = useState("book");
-    const [rec, setRec] = useState("");
+    const [rec, setRec] = useState([]);
 
     const handleClick = () => {
         if (mob === "movie") {
@@ -27,22 +23,32 @@ const Sentence = () => {
     }
     const handleLaunch = () => {
         if (mob === "book") {
-            const y = Math.trunc(Math.random() * Books.length)
-            setRec(Books[y]);
+            const y = Math.trunc(Math.random() * data.length)
+            setRec(data[y]);
         }
         if (mob === "movie") {
-            const x = Math.trunc(Math.random() * Movies.length)
-            setRec(Movies[x])
+            const x = Math.trunc(Math.random() * movieData.length)
+            setRec(movieData[x])
         }
     }
     return (
         <div className="mob-wrapper">
             <div className="mob">
-                <h2>Could you recommend a good <span className="mob" onClick={handleClick}>{mob}</span> for me?</h2>
+                <h2>Could you recommend a good <span className="mobspan" onClick={handleClick}>{mob}</span> for me?</h2>
                 <button className="launch" onClick={handleLaunch}>Launch</button>
             </div>
             <div className="recommended">
-                {rec}
+                {mob === "book" ? (
+                    <div className="recBook">
+                        <h2>{rec.title}</h2>
+                        <h3>{rec.author}</h3>
+                    </div>
+                ) : (
+                    <div className="recMovie">
+                        <h2>{rec.title}</h2>
+                    </div>
+                )}
+
             </div>
         </div>
     )

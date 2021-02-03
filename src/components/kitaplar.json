@@ -1,0 +1,366 @@
+[
+    {
+        "id": 1,
+        "title": "YAŞAMA SEVİNCİ",
+        "author": "Emile Zola",
+        "characters": "Pauline, Lazare, Lousie, Chanteau, Veronique",
+        "publisher": "Türkiye İş Bankası Kültür Yayınları",
+        "translator":"Bertan Onaran",
+        "date": "1/2021"
+    },
+    {
+        "id": 2,
+        "title": "FELATUN BEY İLE RAKIM EFENDİ",
+        "author": "Ahmet Mithat",
+        "characters": "Felatun, Rakım, Canan, Yozefino, Misters Ziklas, Fedayi",
+        "publisher": "Koridor Yayınları",
+        "date": "10/2020"
+    },
+    {
+        "id": 3,
+        "title": "SERGÜZEŞT",
+        "author": "Sami Paşazade Sezai",
+        "characters": "Dilber, Celal",
+        "publisher": "Koridor Yayınları",
+        "date": "9/2020"
+    },
+    {
+        "id": 4,
+        "title": "ARABA SEVDASI",
+        "author": "Recaizade Mahmut Ekrem",
+        "characters": "Bihruz Bey, Keşfi Bey, Periveş Hanım, Mösyö Pierre",
+        "publisher": "Koridor Yayınları",
+        "date": "10/2020"
+    },
+    {
+        "id": 5,
+        "title": "ÖTEKİ",
+        "author": "Fyodor Mihayloviç Dostoyevski",
+        "characters": "Bay Golyadkin, Petruşka, Yakov Petroviç",
+        "publisher": "Türkiye İş Bankası Kültür Yayınları",
+        "translator": "Tansu Akgün",
+        "date":"12/2019"
+    },
+    {
+        "id": 6,
+        "title": "ÖLÜLER EVİNDEN ANILAR",
+        "author": "Fyodor Mihayloviç Dostoyevski",
+        "publisher":"Türkiye İş Bankası Kültür Yayınları",
+        "translator": "Nihal Yalaza Taluy",
+        "date":"1/2020"
+    },
+    {
+        "id": 7,
+        "title": "SUÇ VE CEZA",
+        "author": "Fyodor Mihayloviç Dostoyevski",
+        "characters": "Raskolnikov, Razumihin, Porfiri Petroviç, Sonya",
+        "publisher": "Türkiye İş Bankası Kültür Yayınları",
+        "translator": "Mazlum Beyhan",
+        "date": "0/2018"
+    },
+    {
+        "id": 8,
+        "title": "KARAMAZOV KARDEŞLER",
+        "author": "Fyodor Mihayloviç Dostoyevski",
+        "characters": "Ivan Fyodorovich Karamazov, Alyosha Karamazov, Grushenka, Dmitri Karamazov, Pavel Fyodorovich Smerdyakov, Father Zosima, Fyodor Karamazov, Katerina Ivanovna Verkhovtseva, Ilyusha",
+        "publisher":"Türkiye İş Bankası Kültür Yayınları",
+        "translator": "Nihal Yalaza Taluy",
+        "date":"4/2019"
+    },
+    {
+        "id": 9,
+        "title": "ROBINSON CRUSOE",
+        "author": "Daniel Defoe",
+        "characters": "Robinson Crusoe, Portekizli Kaptan, Vahşiler",
+        "publisher": "Türkiye İş Bankası Kültür Yayınları",
+        "translator": "Fadime Kahya",
+        "date": "11/2020"
+    },
+    {
+        "id": 10,
+        "title": "GERMINAL",
+        "author": "Emile Zola",
+        "characters": "Etienne Lantier, Chaval, Bonnemort, Maheude, Souvarine, Paul Negrel, Phillippe Hennebeau",
+        "publisher":"Türkiye İş Bankası Kültür Yayınları",
+        "translator": "Bertan Onaran",
+        "date": "3/2020"
+    },
+    {
+        "id": 11,
+        "title": "DENİZ İŞÇİLERİ",
+        "author": "Victor Hugo",
+        "characters": "Gİlliatt, Deruchette, Lethierry, Clubin",
+        "publisher":"Türkiye İş Bankası Kültür Yayınları",
+        "translator": "Volkan Yalçıntoklu",
+        "date":"9/2020"
+    },
+    {
+        "id": 12,
+        "title": "NOTRE DAME'IN KAMBURU",
+        "author": "Victor Hugo",
+        "characters": "Quasimodo, Esmeralda, Claude Frollo, Phoebus, Pierre Gringoire, Clopin Trouillefoue, Fleur de Lys, Gudule",
+        "publisher": "Türkiye İş Bankası Kültür Yayınları",
+        "translator": "Volkan Yalçıntoklu",
+        "date": "8/2020"
+    },
+    {
+        "id": 13,
+        "title": "DORIAN GRAY'İN PORTRESİ",
+        "author": "Oscar Wilde",
+        "characters": "Dorian Gray, Lord Henry Wotton, Basil Hallward, Sibyl Vane, James Vane, Alan Campbell, Lady Victoria Wotton",
+        "publisher": "Türkiye İş Bankası Kültür Yayınları",
+        "translator": "Didar Zeynep Batumlu",
+        "date": "9/2020"
+    },
+    {
+        "id": 14,
+        "title": "VADİDEKİ ZAMBAK",
+        "author": "Honore De Balzac",
+        "characters": "Madame de Mortsauf, Felix de Vandenesse, Natalie de Manerville, Lady Dudley",
+        "publisher":"Türkiye İş Bankası Kültür Yayınları",
+        "translator": "Volkan Yalçıntoklu",
+        "date": "1/2020"
+    },
+    {
+        "id": 15,
+        "title": "ÖLÜ CANLAR",
+        "author": "Nikolay Vasilyeviç Gogol",
+        "characters": "Pavel İvanovich Chichikov, Korobochka Anne, Manilov, Nozdryev, Sobakevich",
+        "publisher": "Türkiye İş Bankası Kültür Yayınları",
+        "translator": "Mazlum Beyhan",
+        "date": "11/2019"
+    },
+    {
+        "id": 16,
+        "title": "İKİ ŞEHRİN HİKAYESİ",
+        "author": "Charles Dickens",
+        "characters": "Sydney Carton, Madame Defarge, Charles Darney, Alexandre Manette, Jarvis Lorry",
+        "publisher": "Türkiye İş Bankası Kültür Yayınları",
+        "translator": "Didar Zeynep Batumlu",
+        "date": "0/2020"
+    },
+    {
+        "id": 17,
+        "title": "ÇAVDAR TARLASINDA ÇOCUKLAR",
+        "author": "J.D. Salinger",
+        "characters": "Holden Caulfield, Stradlater, Phoebe Caulfield, Jane Gallagher, Sally Hayes",
+        "publisher": "Yapı Kredi Yayınları",
+        "translator": "Coşkun Yerli",
+        "date": "0/2019"
+    },
+    {
+        "id": 18,
+        "title": "BOZKIRKURDU",
+        "author": "Herman Hesse",
+        "characters": "Harry Haller, Hermine, Gustav, Rosa, Loering",
+        "publisher": "Yapı Kredi Yayınları",
+        "translator": "Kâmuran Şipal",
+        "date": "0/2019"
+    },
+    {
+        "id": 19,
+        "title": "CEHENNEME ÖVGÜ",
+        "author": "Gündüz Vassaf",
+        "publisher": "İletişim Yayınları",
+        "date": "8/2019"
+    },
+    {
+        "id": 20,
+        "title": "YÜRÜMENİN FELSEFESİ",
+        "author": "Frederic Gros",
+        "publisher": "Kolektif Kitap",
+        "translator": "Albina Ulutaşlı",
+        "date":"0/2019"
+    },
+    {
+        "id": 21,
+        "title": "İVAN İLYİÇ'İN ÖLÜMÜ",
+        "author": "L.N Tolstoy",
+        "characters": "Ivan Ilyich, Gerasim, Peter Ivanovich",
+        "publisher":"Türkiye İş Bankası Kültür Yayınları",
+        "translator": "Mazlum Beyhan",
+        "date":"0/2020"
+    },
+    {
+        "id": 22,
+        "title": "DON QUIJOTE",
+        "author": "Miguel de Certanves Saavedra",
+        "characters": "Sancho Panza, Alonso Quijano, Dulcinea del Toboso, Rocinante, Clavileno, Captain Ahab",
+        "publisher":"Yapı Kredi Yayınları",
+        "translator": "Roza Hakmen",
+        "date": "0/2019"
+    },
+    {
+        "id": 23,
+        "title": "MOBY DICK",
+        "author": "Herman Melville",
+        "characters": "Captain Ahab, Ishmael, Queequeg, Moby Dick, Father Mappie, Starbuck, Stubb",
+        "publisher":"Yapı Kredi Yayınları",
+        "translator": "Sabahattin Eyuboğlu - Mina Urgan",
+        "date": "0/2019"
+    },
+    {
+        "id": 24,
+        "title": "KÖRLÜK",
+        "author": "Jose Saramago",
+        "characters": "Doktor'un Eşi, Siyah Gözlüklü Kadın, ...",
+        "publisher": "Kırmızı Kedi",
+        "translator": "Işık Ergüden",
+        "date": "0/2019"
+    },
+    {
+        "id": 25,
+        "title": "SOFIE'NİN DÜNYASI",
+        "author": "Jostein Gaarder",
+        "characters": "Sophie Amundsen, Hilde Moller Knag, Alberto Knox, Albert Knag",
+        "publisher": "Pan Yayıncılık",
+        "translator": "Sabir Yücesoy",
+        "date": "9/2020"
+    },
+    {
+        "id": 26,
+        "title": "FAHRENHEIT 451",
+        "author": "Ray Bradbury",
+        "characters": "Guy Montag, Clarisse McClellan, Beatty, Faber",
+        "publisher": "İthaki Yayınları",
+        "translator": "Dost Körpe",
+        "date": "0/2019"
+    },
+    {
+        "id": 27,
+        "title": "MECBURİYET",
+        "author": "Stefan Zweig",
+        "characters": "Ferdinand, Paula",
+        "publisher": "Türkiye İş Bankası Kültür Yayınları",
+        "translator": "Gülperi Sert",
+        "date": "0/2019"
+    },
+    {
+        "id": 28,
+        "title": "BİLİNMEYEN BİR KADININ MEKTUBU",
+        "author": "Stefan Zweig",
+        "publisher": "Türkiye İş Bankası Kültür Yayınları",
+        "translator": "Ahmet Cemal",
+        "date": "0/2019"
+    },
+    {
+        "id": 29,
+        "title": "KORKU",
+        "author": "Stefan Zweig",
+        "characters": "Irene, Emilie, Bayan Wagner",
+        "publisher": "Türkiye İş Bankası Kültür Yayınları",
+        "translator": "İlknur İgan",
+        "date": "0/2020"
+    },
+    {
+        "id": 30,
+        "title": "AY IŞIĞI SOKAĞI",
+        "author": "Stefan Zweig",
+        "publisher": "Türkiye İş Bankası Kültür Yayınları",
+        "translator": "Regaip Minareci",
+        "date": "0/2019"
+    },
+    {
+        "id": 31,
+        "title": "OTOMATİK PORTAKAL",
+        "author": "Anthony Burgess",
+        "characters":"Alex, Georgie, Deltoid, Dim",
+        "publisher": "Türkiye İş Bankası Kültür Yayınları",
+        "translator": "Dost Körpe",
+        "date": "0/2019"
+    },
+    {
+        "id": 32,
+        "title": "SİNEKLERİN TANRISI",
+        "author": "William Golding",
+        "characters":"Jack, Piggy, Ralph, Simon, Sam, Roger",
+        "publisher": "Türkiye İş Bankası Kültür Yayınları",
+        "translator": "Mina Urgan",
+        "date": "0/2019"
+    },
+    {
+        "id": 33,
+        "title": "DÜNYALAR SAVAŞI",
+        "author": "H.G. Wells",
+        "publisher": "Türkiye İş Bankası Kültür Yayınları",
+        "translator": "Celal Üster",
+        "date": "0/2019"
+    },
+    {
+        "id": 34,
+        "title": "MARTIN EDEN",
+        "author": "Jack London",
+        "characters": "Martin Eden, Ruth Morse, Lizzle Connolly, Joe Dawson",
+        "publisher": "Türkiye İş Bankası Kültür Yayınları",
+        "translator": "Levent Cinemre",
+        "date": "6/2019"
+    },
+    {
+        "id": 35,
+        "title": "PEYGAMERİN SON BEŞ GÜNÜ",
+        "author": "Tahsin Yücel",
+        "characters": "Rahmi Sönmez, Fehmi Gülmez, Feride",
+        "publisher": "Can Yayınları",
+        "date": "0/2020"
+    },
+    {
+        "id": 36,
+        "title": "GOLYAN DEVRİMİ",
+        "author": "Tahsin Yücel",
+        "publisher":"Can Yayınları",
+        "date": "0/2018"
+    },
+    {
+        "id": 37,
+        "title": "BENİM ADIM KIRMIZI",
+        "author": "Orhan Pamuk",
+        "publisher": "Yapı Kredi Yayınları",
+        "date": "0/2017"
+    },
+    {
+        "id": 38,
+        "title": "Masumiyet Müzesi",
+        "author": "Orhan Pamuk",
+        "characters": "Kemal, Füsun, Sibel",
+        "publisher": "Yapı Kredi Yayınları",
+        "date": "0/2019"
+    },
+    {
+        "id": 39,
+        "title": "KAFAMDA BİR TUHAFLIK",
+        "author": "Orhan Pamuk",
+        "publisher": "Yapı Kredi Yayınları",
+        "date": "0/2017"
+    },
+    {
+        "id": 40,
+        "title": "KIRMIZI SAÇLI KADIN",
+        "author": "Orhan Pamuk",
+        "publisher": "Yapı Kredi Yayınları",
+        "date": "0/2017"
+    },
+    {
+        "id": 41,
+        "title": "GORIOT BABA",
+        "author": "Honore De Balzac",
+        "publisher": "Can Yayınları",
+        "translator": "Tahsin Yücel",
+        "date": "2/2020"
+    },
+    {
+        "id": 42,
+        "title": "GERTRUD",
+        "author": "Herman Hesse",
+        "publisher": "Yapı Kredi Yayınları",
+        "translator": "Kâmuran Şipal",
+        "date": "0/2020"
+    },
+    {
+        "id": 43,
+        "title": "GÜNDEN KALANLAR",
+        "author": "Kazuo Ishiguro",
+        "publisher": "Yapı Kredi Yayınları",
+        "translator": "Şebnem Susam-Saraeva",
+        "date": "0/2020"
+    }
+]

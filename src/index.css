@@ -8,9 +8,16 @@
 
 
 body {
+    margin-top: 3rem;
     font-family: 'Reem Kufi', sans-serif;
+    background:url('./bitmap.png');
+    color: wheat;
 }
 .header {
+
+    text-align: center;
+    padding: 1rem;
+
     user-select: none; /* supported by Chrome and Opera */
    -webkit-user-select: none; /* Safari */
    -khtml-user-select: none; /* Konqueror HTML */
@@ -18,15 +25,39 @@ body {
    -ms-user-select: none; /* Internet Explorer/Edge */
 }
 .mob-wrapper {
+
+    text-align: center;
+
     user-select: none; /* supported by Chrome and Opera */
    -webkit-user-select: none; /* Safari */
    -khtml-user-select: none; /* Konqueror HTML */
    -moz-user-select: none; /* Firefox */
    -ms-user-select: none; /* Internet Explorer/Edge */
+
 }
 
-.mob {
-    border: 2px solid black;
+.launch {
+    padding: .5rem 1rem;
+    margin: 1rem;
+    background: wheat;
+    font-weight: 600;
+    transition: all .5s;
+}
+.launch:hover {
+    cursor: pointer;
+}
+
+.recBook {
+    margin-top: 3rem;
+    font-size: 1.5rem;
+}
+.recMovie {
+    margin-top: 3rem;
+    font-size: 1.5rem;
+}
+
+.mobspan {
     margin: .4 1rem;
     padding: 0 1rem;
+    border: 2px solid white;
 }
