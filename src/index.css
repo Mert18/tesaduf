@@ -35,6 +35,14 @@ body {
    -ms-user-select: none; /* Internet Explorer/Edge */
 
 }
+a {
+    position: absolute;
+    top: 5%;
+    left: 80%;
+    text-decoration: none;
+    color: wheat;
+    font-weight: 600;
+}
 
 .launch {
     padding: .5rem 1rem;
