@@ -319,7 +319,7 @@
     },
     {
         "id": 38,
-        "title": "Masumiyet Müzesi",
+        "title": "MASUMİYET MÜZESİ",
         "author": "Orhan Pamuk",
         "characters": "Kemal, Füsun, Sibel",
         "publisher": "Yapı Kredi Yayınları",
@@ -362,5 +362,185 @@
         "publisher": "Yapı Kredi Yayınları",
         "translator": "Şebnem Susam-Saraeva",
         "date": "0/2020"
+    },
+    {
+        "id": 44,
+        "title": "ŞEKER PORTAKALI",
+        "author": "Jose Mauro De Vasconcelos",
+        "characters": "Zeze, Antonio",
+        "publisher": "Can Yayınları",
+        "translator": "Emrah İnce",
+        "date": "0/2018"
+    },
+    {
+        "id": 45,
+        "title": "TOM SAWYER'İN MACERALARI",
+        "author": "Mark Twain",
+        "publisher": "Türkiye İş Bankası Kültür Yayınları",
+        "translator": "Bülent O. Doğan",
+        "date": "0/2019"
+    },
+    {
+        "id": 46,
+        "title": "BÜLBÜLÜ ÖLDÜRMEK",
+        "author": "Harper Lee",
+        "publisher": "Sel Yayıncılık",
+        "translator": "Ülker İnce",
+        "date": "0/2019"
+    },
+    {
+        "id": 47,
+        "title": "FARELER VE İNSANLAR",
+        "author": "John Steinbeck",
+        "publisher": "Sel Yayıncılık",
+        "translator": "Belkıs Çorakçı",
+        "date": "0/2018"
+    },
+    {
+        "id": 48,
+        "title": "1984",
+        "author": "George Orwell",
+        "publisher": "Can Yayınları",
+        "translator": "Celal Üster",
+        "date": "0/2019"
+    },
+    {
+        "id": 49,
+        "title": "HAYVAN ÇİFTLİĞİ",
+        "author": "George Orwell",
+        "publisher": "Can Yayınları",
+        "translator": "Celal Üster",
+        "date": "0/2018"
+    },
+    {
+        "id": 50,
+        "title": "SÜPER İYİ GÜNLER",
+        "author": "Mark Haddon",
+        "publisher": "Türkiye İş Bankası Kültür Yayınları",
+        "translator": "Övgü Doğangün",
+        "date": "0/2018"
+    },
+    {
+        "id": 51,
+        "title": "BEYAZ GEMİ",
+        "author": "Cengiz Aytmatov",
+        "publisher": "Ötüken Neşriyat",
+        "translator": "Refik Özdek",
+        "date": "0/2017"
+    },
+    {
+        "id": 52,
+        "title": "BEYAZ DİŞ",
+        "author": "Jack London",
+        "publisher": "Türkiye İş Bankası Kültür Yayınları",
+        "translator": "Levent Cinemre",
+        "date": "0/2017"
+    },
+    {
+        "id": 53,
+        "title": "BABALAR VE OĞULLAR",
+        "author": "Ivan Sergeyeviç Turgenyev",
+        "publisher": "Türkiye İş Bankası Kültür Yayınları",
+        "translator": "Ergin Altan",
+        "date": "0/2017"
+    },
+    {
+        "id": 54,
+        "title": "DÜNYADAN AYA",
+        "author": "Jules Verne",
+        "publisher": "İthaki Yayınları",
+        "translator": "İthaki Yayınları",
+        "date": "0/2017"
+    },
+    {
+        "id": 55,
+        "title": "DÜNYANIN MERKEZİNE SEYAHAT",
+        "author": "Jules Verne",
+        "publisher": "İthaki Yayınları",
+        "translator": "Mehveş Omay",
+        "date": "0/2019"
+    },
+    {
+        "id": 56,
+        "title": "FERRARİ'SİNİ SATAN BİLGE",
+        "author": "Robin Sharma",
+        "publisher": "Pegasus",
+        "translator": "Filiz Gülerkaya",
+        "date": "0/2017"
+    },
+    {
+        "id": 57,
+        "title": "KAVİM",
+        "author": "Ahmet Ümit",
+        "publisher": "Everest Yayınları",
+        "date": "0/2016"
+    },
+    {
+        "id": 58,
+        "title": "BEYOĞLU RAPSODİSİ",
+        "author": "Ahmet Ümit",
+        "publisher": "Everest Yayınları",
+        "date": "0/2015"
+    },
+    {
+        "id": 59,
+        "title": "BEYOĞLU'NUN EN GÜZEL ABİSİ",
+        "author": "Ahmet Ümit",
+        "publisher": "Everest Yayınları",
+        "date": "0/2015"
+    },
+    {
+        "id": 60,
+        "title": "BAB-I ESRAR",
+        "author": "Ahmet Ümit",
+        "publisher": "Everest Yayınları",
+        "date": "0/2015"
+    },
+    {
+        "id": 61,
+        "title": "KADEHTEKİ GÖKTAŞI",
+        "author": "Florian Freistetter",
+        "publisher": "NTV Yayınları",
+        "translator": "Itır Ilgaz",
+        "date": "0/2019"
+    },
+    {
+        "id": 62,
+        "title": "GENÇ WERTHER'İN ACILARI",
+        "author": "Johann Wolfgang Von Goethe",
+        "publisher": "Türkiye İş Bankası Kültür Yayınları",
+        "translator": "Mahmure Kahraman",
+        "date": "0/2019"
+    },
+    {
+        "id": 63,
+        "title": "KUMARBAZ",
+        "author": "Fyodor Mihayloviç Dostoyevski",
+        "publisher": "Türkiye İş Bankası Kültür Yayınları",
+        "translator": "Koray Karasulu",
+        "date": "0/2020"
+    },
+    {
+        "id": 64,
+        "title": "YÜZBAŞININ KIZI",
+        "author": "Aleksandr Sergeyeviç Puşkin",
+        "publisher": "Yapı Kredi Yayınları",
+        "translator": "Sabahattin Ali, Erol Güney",
+        "date": "0/2017"
+    },
+    {
+        "id": 65,
+        "title": "YERALTINDAN NOTLAR",
+        "author": "Fyodor Mihayloviç Dostoyevski",
+        "publisher": "Türkiye İş Bankası Kültür Yayınları",
+        "translator": "Nihal Yalaza Taluy",
+        "date": "0/2018"
+    },
+    {
+        "id": 66,
+        "title": "İNCE MEMED",
+        "author": "Yaşar Kemal",
+        "publisher": "Yapı Kredi Yayınları",
+        "date": "0/2015"
     }
 ]
