@@ -1,20 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Reem+Kufi&display=swap');
-
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-
-body {
-    margin-top: 3rem;
-    font-family: 'Reem Kufi', sans-serif;
-    background:url('./bitmap.png');
-    color: wheat;
-}
 .header {
-
     text-align: center;
     padding: 1rem;
 
@@ -23,6 +7,14 @@ body {
    -khtml-user-select: none; /* Konqueror HTML */
    -moz-user-select: none; /* Firefox */
    -ms-user-select: none; /* Internet Explorer/Edge */
+   a {
+    position: absolute;
+    top: 5%;
+    left: 80%;
+    text-decoration: none;
+    color: wheat;
+    font-weight: 600;
+}
 }
 .mob-wrapper {
 
@@ -35,14 +27,7 @@ body {
    -ms-user-select: none; /* Internet Explorer/Edge */
 
 }
-a {
-    position: absolute;
-    top: 5%;
-    left: 80%;
-    text-decoration: none;
-    color: wheat;
-    font-weight: 600;
-}
+
 
 .launch {
     padding: .5rem 1rem;
@@ -65,7 +50,26 @@ a {
 }
 
 .mobspan {
-    margin: .4 1rem;
+    margin: .4 2rem;
     padding: 0 1rem;
     border: 2px solid white;
+}
+
+
+.langButtons {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    display: flex;
+    flex-direction: column;
+
+    button {
+        margin: .5rem;
+        padding: .3rem;
+        border: 2px solid wheat;
+        background: transparent;
+        color: wheat;
+        font-weight: 600;
+        font-size: 1.1rem;
+    }
 }
