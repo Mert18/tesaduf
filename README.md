@@ -1,1 +1,1 @@
-# A simple website that recommends random Movies or Books.
+# TESADÜF, rastgele film ya da kitap öneren bir sitedir.
