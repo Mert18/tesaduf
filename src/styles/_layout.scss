@@ -42,34 +42,15 @@
 
 .recBook {
     margin-top: 3rem;
-    font-size: 1.5rem;
+    font-size: 1.8rem;
 }
 .recMovie {
     margin-top: 3rem;
-    font-size: 1.5rem;
+    font-size: 1.8rem;
 }
 
 .mobspan {
     margin: .4 2rem;
     padding: 0 1rem;
     border: 2px solid white;
-}
-
-
-.langButtons {
-    position: absolute;
-    top: 5%;
-    left: 5%;
-    display: flex;
-    flex-direction: column;
-
-    button {
-        margin: .5rem;
-        padding: .3rem;
-        border: 2px solid wheat;
-        background: transparent;
-        color: wheat;
-        font-weight: 600;
-        font-size: 1.1rem;
-    }
 }
