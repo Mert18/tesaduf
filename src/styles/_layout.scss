@@ -15,7 +15,7 @@
     top: 5%;
     left: 80%;
     text-decoration: none;
-    color: $tertiary-color;
+    color: $secondary-color;
     font-weight: 600;
 }
 }
@@ -34,36 +34,58 @@
         }
     }
 }
-
-
-.launch {
-    padding: 1rem;
-    margin: 1.2rem;
-    background: $tertiary-color;
-    font-weight: 600;
-    transition: all .5s;
-    border: none;
-    border-radius: 1rem;
-    outline: none;
-}
-.launch:hover {
-    cursor: pointer;
+.question_mark {
+    padding: .5rem;
+    border-bottom: 2px solid purple;
 }
 
 .recBook {
     margin-top: 4rem;
-    font-size: 2.3rem;
+    font-size: 2.5rem;
     color: $secondary-color;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    color: #8F3B78;
 }
 .recMovie {
     margin-top: 4rem;
-    font-size: 2.3rem;
+    font-size: 2.5rem;
     color: $secondary-color;
-
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    color: #8F3B78;
 }
 
+@media (max-width: 1300px) {
+    body {
+    font-family: 'Reem Kufi', sans-serif;
+    background: url(../bg.png);
+    background-position: fixed;
+    background-repeat: no-repeat;
+    color: $secondary-color;
+    }
+}
+@media (max-width: 750px) {
+    body {
+        padding: 2rem;
+        background: transparent;
+    }
+    h1 {
+        font-size: 1.4rem;
+    }
+    h2 {
+        font-size: 2rem;
+    }
+    h3 {
+        font-size: 1.8rem;
+    }
+}
 .mobspan {
     margin: .4 2rem;
     padding: 0 .5rem;
-    border-bottom: 3px solid $tertiary-color;
+    border-bottom: 3px solid $secondary-color;
 }

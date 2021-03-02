@@ -34,8 +34,7 @@ const Sentence = () => {
     return (
         <div className="mob-wrapper">
             <div className="mob">
-                <h2>Bana bir <span className="mobspan" onClick={handleClick}>{mob === "book" ? <span>kitap</span> : <span>film</span>}</span> önerir misin?</h2>
-                <button className="launch" onClick={handleLaunch}>Göster</button>
+                <h2>Bana bir <span className="mobspan" onClick={handleClick}>{mob === "book" ? <span>kitap</span> : <span>film</span>}</span> önerir misin <span onClick={handleLaunch} className="question_mark">?</span></h2>
             </div>
             <div className="recommended">
                 {mob === "book" ? (

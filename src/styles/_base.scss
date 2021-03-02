@@ -10,8 +10,8 @@
 body {
     margin-top: 3rem;
     font-family: 'Reem Kufi', sans-serif;
-    background:url('../wheat.png');
-    background-repeat: no-repeat;
+    background: url(../bg.png);
+    background-position: 0% 0%;
     background-size: cover;
-    color: $tertiary-color;
+    color: $secondary-color;
 }
