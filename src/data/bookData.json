@@ -5,7 +5,7 @@
         "author": "Emile Zola",
         "characters": "Pauline, Lazare, Lousie, Chanteau, Veronique",
         "publisher": "Türkiye İş Bankası Kültür Yayınları",
-        "translator":"Bertan Onaran",
+        "translator": "Bertan Onaran",
         "date": "1/2021"
     },
     {
@@ -39,15 +39,15 @@
         "characters": "Bay Golyadkin, Petruşka, Yakov Petroviç",
         "publisher": "Türkiye İş Bankası Kültür Yayınları",
         "translator": "Tansu Akgün",
-        "date":"12/2019"
+        "date": "12/2019"
     },
     {
         "id": 6,
         "title": "ÖLÜLER EVİNDEN ANILAR",
         "author": "Fyodor Mihayloviç Dostoyevski",
-        "publisher":"Türkiye İş Bankası Kültür Yayınları",
+        "publisher": "Türkiye İş Bankası Kültür Yayınları",
         "translator": "Nihal Yalaza Taluy",
-        "date":"1/2020"
+        "date": "1/2020"
     },
     {
         "id": 7,
@@ -63,9 +63,9 @@
         "title": "KARAMAZOV KARDEŞLER",
         "author": "Fyodor Mihayloviç Dostoyevski",
         "characters": "Ivan Fyodorovich Karamazov, Alyosha Karamazov, Grushenka, Dmitri Karamazov, Pavel Fyodorovich Smerdyakov, Father Zosima, Fyodor Karamazov, Katerina Ivanovna Verkhovtseva, Ilyusha",
-        "publisher":"Türkiye İş Bankası Kültür Yayınları",
+        "publisher": "Türkiye İş Bankası Kültür Yayınları",
         "translator": "Nihal Yalaza Taluy",
-        "date":"4/2019"
+        "date": "4/2019"
     },
     {
         "id": 9,
@@ -81,7 +81,7 @@
         "title": "GERMINAL",
         "author": "Emile Zola",
         "characters": "Etienne Lantier, Chaval, Bonnemort, Maheude, Souvarine, Paul Negrel, Phillippe Hennebeau",
-        "publisher":"Türkiye İş Bankası Kültür Yayınları",
+        "publisher": "Türkiye İş Bankası Kültür Yayınları",
         "translator": "Bertan Onaran",
         "date": "3/2020"
     },
@@ -90,9 +90,9 @@
         "title": "DENİZ İŞÇİLERİ",
         "author": "Victor Hugo",
         "characters": "Gİlliatt, Deruchette, Lethierry, Clubin",
-        "publisher":"Türkiye İş Bankası Kültür Yayınları",
+        "publisher": "Türkiye İş Bankası Kültür Yayınları",
         "translator": "Volkan Yalçıntoklu",
-        "date":"9/2020"
+        "date": "9/2020"
     },
     {
         "id": 12,
@@ -117,7 +117,7 @@
         "title": "VADİDEKİ ZAMBAK",
         "author": "Honore De Balzac",
         "characters": "Madame de Mortsauf, Felix de Vandenesse, Natalie de Manerville, Lady Dudley",
-        "publisher":"Türkiye İş Bankası Kültür Yayınları",
+        "publisher": "Türkiye İş Bankası Kültür Yayınları",
         "translator": "Volkan Yalçıntoklu",
         "date": "1/2020"
     },
@@ -170,23 +170,23 @@
         "author": "Frederic Gros",
         "publisher": "Kolektif Kitap",
         "translator": "Albina Ulutaşlı",
-        "date":"0/2019"
+        "date": "0/2019"
     },
     {
         "id": 21,
         "title": "İVAN İLYİÇ'İN ÖLÜMÜ",
         "author": "L.N Tolstoy",
         "characters": "Ivan Ilyich, Gerasim, Peter Ivanovich",
-        "publisher":"Türkiye İş Bankası Kültür Yayınları",
+        "publisher": "Türkiye İş Bankası Kültür Yayınları",
         "translator": "Mazlum Beyhan",
-        "date":"0/2020"
+        "date": "0/2020"
     },
     {
         "id": 22,
         "title": "DON QUIJOTE",
         "author": "Miguel de Certanves Saavedra",
         "characters": "Sancho Panza, Alonso Quijano, Dulcinea del Toboso, Rocinante, Clavileno, Captain Ahab",
-        "publisher":"Yapı Kredi Yayınları",
+        "publisher": "Yapı Kredi Yayınları",
         "translator": "Roza Hakmen",
         "date": "0/2019"
     },
@@ -195,7 +195,7 @@
         "title": "MOBY DICK",
         "author": "Herman Melville",
         "characters": "Captain Ahab, Ishmael, Queequeg, Moby Dick, Father Mappie, Starbuck, Stubb",
-        "publisher":"Yapı Kredi Yayınları",
+        "publisher": "Yapı Kredi Yayınları",
         "translator": "Sabahattin Eyuboğlu - Mina Urgan",
         "date": "0/2019"
     },
@@ -264,7 +264,7 @@
         "id": 31,
         "title": "OTOMATİK PORTAKAL",
         "author": "Anthony Burgess",
-        "characters":"Alex, Georgie, Deltoid, Dim",
+        "characters": "Alex, Georgie, Deltoid, Dim",
         "publisher": "Türkiye İş Bankası Kültür Yayınları",
         "translator": "Dost Körpe",
         "date": "0/2019"
@@ -273,7 +273,7 @@
         "id": 32,
         "title": "SİNEKLERİN TANRISI",
         "author": "William Golding",
-        "characters":"Jack, Piggy, Ralph, Simon, Sam, Roger",
+        "characters": "Jack, Piggy, Ralph, Simon, Sam, Roger",
         "publisher": "Türkiye İş Bankası Kültür Yayınları",
         "translator": "Mina Urgan",
         "date": "0/2019"
@@ -307,7 +307,7 @@
         "id": 36,
         "title": "GOLYAN DEVRİMİ",
         "author": "Tahsin Yücel",
-        "publisher":"Can Yayınları",
+        "publisher": "Can Yayınları",
         "date": "0/2018"
     },
     {
@@ -542,5 +542,22 @@
         "author": "Yaşar Kemal",
         "publisher": "Yapı Kredi Yayınları",
         "date": "0/2015"
+    },
+    {
+        "id": 67,
+        "title": "EYLÜL",
+        "author": "Mehmet Rauf",
+        "characters": "Suat, Necip, Süreyya, Hacer",
+        "publisher": "Koridor Yayınları",
+        "date": "3/2021"
+    },
+    {
+        "id": 68,
+        "title": "SEMERKANT",
+        "author": "Amin Maalouf",
+        "characters": "Ömer Hayyam, Hasan Sabbah, Melikşah, Nizamülmülk, Cihan",
+        "publisher": "Yapı Kredi Yayınları",
+        "translator": "Ali Berktay",
+        "date": "3/2021"
     }
 ]
