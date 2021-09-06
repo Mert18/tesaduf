@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200;300;400;500;700&display=swap");
+
+:root {
+  --background: #4b4453;
+  --text: #fffafa;
+  --bubble: #b0a8b9;
+}
+
+*,
+*::before,
+*::after {
+  margin: 0rem;
+  padding: 0rem;
+  box-sizing: border-box;
+}
+
+.container {
+  font-family: "Roboto Slab", serif;
+  background: var(--background);
+  color: var(--text);
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 2.5rem;
+  padding: 2rem;
+}
+
+.mob-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  min-height: 60vh;
+}
+
+.mob {
+  font-size: 1.6rem;
+}
+
+.mobspan {
+  border-bottom: 2px solid var(--text);
+}
+.mobspan:hover {
+  cursor: pointer;
+}
+
+.recommended {
+  font-size: 3rem;
+  font-weight: 300;
+  text-align: center;
+  z-index: 999;
+  color: var(--text);
+}
+
+.bubble {
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  background-color: var(--bubble);
+  border-radius: 50%;
+  overflow: hidden;
+  transition: all 2s ease;
+}
+
+@media (max-width: 1000px) {
+  .bubble {
+    height: 50px;
+    width: 50px;
+  }
+  .recommended {
+    font-size: 2rem;
+  }
+}
