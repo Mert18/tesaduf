@@ -21,6 +21,7 @@
   height: 100vh;
   overflow: hidden;
   position: relative;
+  transition: all 0.5s ease;
 }
 
 .header {
@@ -63,7 +64,6 @@
   position: absolute;
   height: 100px;
   width: 100px;
-  background-color: var(--bubble);
   border-radius: 50%;
   overflow: hidden;
   transition: all 2s ease;
